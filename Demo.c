@@ -6,6 +6,8 @@ int main(){
     printf("New Demo \n");
     printf("Learning Git & Github \n");
 
+    printf("This Code will appear in featcher 1 Branch Only");
+
 
 
 }
